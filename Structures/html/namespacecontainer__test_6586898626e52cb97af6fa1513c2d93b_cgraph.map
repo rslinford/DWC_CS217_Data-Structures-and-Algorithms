@@ -1,8 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1Queue.html#f1f128af37456d3c344a27ad1660ea91" title="Remove the first Entity from the Queue and return a pointer to the Entity." alt="" coords="215,81,391,109">
-<area shape="rect" id="node11" href="$classcontainer_1_1Queue.html#c8f19a8dd6bede46d001ea504ae7856f" title="Add an Entity onto the end of the Queue." alt="" coords="215,157,391,185">
-<area shape="rect" id="node17" href="$classcontainer_1_1Queue.html#1cabf3ed448ff80fe4a49e34ba1e1c28" title="Return the instance of Object::Info that describes the class of this object." alt="" coords="216,207,389,235">
-<area shape="rect" id="node5" href="$classcontainer_1_1Queue.html#706f5e4478ddc9a389d5ea7c10ff6e41" title="Hide from sub&#45;classes." alt="" coords="452,5,636,33">
-<area shape="rect" id="node7" href="$classcontainer_1_1Queue.html#9aba01b891e9859093438de7fb75fdc5" title="Called by a template method." alt="" coords="440,55,648,83">
-<area shape="rect" id="node9" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of Entity objects in this container." alt="" coords="445,106,643,134">
-<area shape="rect" id="node13" href="$classcontainer_1_1Queue.html#af5fa0f3a275e76ea2e7067e247fcecc" title="Called by a template method." alt="" coords="440,157,648,185">
-<area shape="rect" id="node15" href="$classcontainer_1_1Queue.html#7193c6349e0b90ed88f8d57080bdc845" title="Hide from sub&#45;classes." alt="" coords="455,207,633,235">

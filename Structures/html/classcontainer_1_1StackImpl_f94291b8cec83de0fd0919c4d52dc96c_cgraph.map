@@ -1,7 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1List.html#32edfa9eebe1a97c093d7ee40d09110d" title="Return a pointer to the current Entity." alt="" coords="279,5,463,33">
-<area shape="rect" id="node5" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of Entity objects in this container." alt="" coords="272,55,469,83">
-<area shape="rect" id="node7" href="$classcontainer_1_1List.html#9bf759f66d205b119f2686837d2ff161" title="Return true if the cursor is pointing to first real node, false otherwise." alt="" coords="297,106,444,134">
-<area shape="rect" id="node9" href="$classcontainer_1_1List.html#3ba3527e2adb48cf742297ae45cdaa73" title="Determine whether the list cursor is pointing to the last Entity." alt="" coords="297,157,444,185">
-<area shape="rect" id="node11" href="$classcontainer_1_1List.html#4e78ea72d5aa41f0049e2613d0096982" title="Point the cursor to the previous Entity in the list." alt="" coords="297,207,444,235">
-<area shape="rect" id="node13" href="$classcontainer_1_1List.html#fd7450f6bc57ffb6ec57cdb77aae948f" title="Point the cursor to the tail of the list." alt="" coords="300,258,441,286">
-<area shape="rect" id="node15" href="$classcontainer_1_1OrderedList.html#36c1782e234f04f3f8cb59d00df8d896" title="Return the instance of Object::Info that describes the class of this object." alt="" coords="269,309,472,337">

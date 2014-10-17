@@ -1,5 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1List.html#11b95f3377ff781d12b1b2a829ac8c80" title="Empties the contents of the container, deleting all Entities." alt="" coords="335,55,529,83">
-<area shape="rect" id="node5" href="$classcontainer_1_1List.html#fbd615ed23e157eb39eece65bfb9320c" title="Remove the current Entity from the list and delete it from memory." alt="" coords="580,30,767,58">
-<area shape="rect" id="node11" href="$classcontainer_1_1List.html#6ba14a4d94774f1df27db0c818194d17" title="Point the cursor to the first Entity in the list." alt="" coords="600,81,747,109">
-<area shape="rect" id="node7" href="$classcontainer_1_1Container.html#94ba04bb7cc9899cb90397fc5a929457" title="container::Container::decCount" alt="" coords="827,5,1027,33">
-<area shape="rect" id="node9" href="$classcontainer_1_1List.html#a5b4fbf4cf0dc35ddf4a98a9886bcfb8" title="Called by a template method." alt="" coords="817,55,1036,83">

@@ -1,8 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1Entity.html#f85b65b0d701788d463eeee39a4ff1f7" title="container::Entity::generateKeyAsString" alt="" coords="147,131,395,159">
-<area shape="rect" id="node5" href="$classcontainer_1_1Entity.html#42132a47e1d764ba0cb8e60946659bae" title="Return an Entity object&#39;s key in a string representation." alt="" coords="443,131,659,159">
-<area shape="rect" id="node7" href="$classcontainer__test_1_1Entity__test.html#a7ad3ce783e2a1c62ea2972c1bfd7b94" title="container_test::Entity_test::assignmentOperatorTestCore" alt="" coords="707,5,1059,33">
-<area shape="rect" id="node9" href="$classcontainer__test_1_1Entity__test.html#03344b2431f56714aa55c105c3662b3b" title="container_test::Entity_test::copyConstructorTestCore" alt="" coords="719,55,1047,83">
-<area shape="rect" id="node11" href="$classcontainer__test_1_1SortedList__test.html#c58dc71096f9ba79ce54a9936d0748eb" title="container_test::SortedList_test::insertSorted" alt="" coords="744,106,1021,134">
-<area shape="rect" id="node13" href="$classcontainer__test_1_1List__test.html#299a3fbbc3baff8d44dce5fcd42aa73f" title="container_test::List_test::locateEntity" alt="" coords="764,157,1001,185">
-<area shape="rect" id="node15" href="$classcontainer_1_1Entity.html#8db20996546befde170b0690c3df72c0" title="Write the state of an Object for debugging and demonstration." alt="" coords="787,207,979,235">
-<area shape="rect" id="node17" href="$namespacecontainer__test.html#e42748412a824f0c7585ce2258616b4b" title="container_test::TEST_F" alt="" coords="804,258,961,286">

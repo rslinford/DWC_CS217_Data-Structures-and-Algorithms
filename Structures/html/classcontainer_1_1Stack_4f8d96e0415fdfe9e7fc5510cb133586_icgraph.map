@@ -1,7 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1Stack.html#d63453e13a17b44d88e886541aa3b736" title="Remove the top Entity from the Stack and return a pointer to the Entity." alt="" coords="236,131,380,159">
-<area shape="rect" id="node5" href="$classcontainer_1_1Stack.html#c34a9a5c7a369fca4edd8220c26c6d94" title="Empty the contents of the container, deleting all Entities." alt="" coords="851,5,1059,33">
-<area shape="rect" id="node9" href="$classcontainer__test_1_1StackImpl__test.html#df33fa23c550722fd39d780574fe5e66" title="container_test::StackImpl_test::pushPopTest" alt="" coords="1164,157,1447,185">
-<area shape="rect" id="node11" href="$namespacecontainer__test.html#8cfdb10a472e6bb17da18eae814d8124" title="container_test::TEST_F" alt="" coords="517,157,675,185">
-<area shape="rect" id="node13" href="$classcontainer__test_1_1StackImpl__test.html#096c0f34ae88c7059268202670a2e5ec" title="container_test::StackImpl_test::verifyStackCoherence" alt="" coords="431,106,761,134">
-<area shape="rect" id="node7" href="$classcontainer__test_1_1StackImpl__test.html#8c13ed96fdd58e7d0a9d6f1cf88a763a" title="container_test::StackImpl_test::purgeContentsTest" alt="" coords="1148,55,1463,83">
-<area shape="rect" id="node17" href="$classcontainer__test_1_1StackImpl__test.html#8d70fbdfc5df49bd5f9b768c91e3ad92" title="container_test::StackImpl_test::startingEmpty" alt="" coords="811,106,1099,134">
