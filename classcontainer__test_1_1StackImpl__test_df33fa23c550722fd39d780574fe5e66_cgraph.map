@@ -1,0 +1,18 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1List.html#897fccd47e24d336fab5f414bba2bfe3" title="Return a pointer to the Entity found at the specified, zero&#45;based index." alt="" coords="403,5,557,33">
+<area shape="rect" id="node5" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of Entity objects in this container." alt="" coords="1361,157,1559,185">
+<area shape="rect" id="node7" href="$classcontainer_1_1Stack.html#d63453e13a17b44d88e886541aa3b736" title="Remove the top Entity from the Stack and return a pointer to the Entity." alt="" coords="1096,55,1240,83">
+<area shape="rect" id="node14" href="$classcontainer_1_1Stack.html#cb31868c9b72884815875a74d7632106" title="Add an Entity onto the top of the Stack." alt="" coords="1092,474,1244,502">
+<area shape="rect" id="node20" href="$classcontainer__test_1_1StackImpl__test.html#8d70fbdfc5df49bd5f9b768c91e3ad92" title="container_test::StackImpl_test::startingEmpty" alt="" coords="336,157,624,185">
+<area shape="rect" id="node23" href="$classcontainer__test_1_1StackImpl__test.html#096c0f34ae88c7059268202670a2e5ec" title="container_test::StackImpl_test::verifyStackCoherence" alt="" coords="673,258,1004,286">
+<area shape="rect" id="node9" href="$classcontainer_1_1Stack.html#4f8d96e0415fdfe9e7fc5510cb133586" title="Hide from sub&#45;classes." alt="" coords="1371,81,1549,109">
+<area shape="rect" id="node12" href="$classcontainer_1_1Stack.html#114badb6ce48511483eb7a613eff08a2" title="Called by a template method." alt="" coords="1372,30,1548,58">
+<area shape="rect" id="node16" href="$classcontainer_1_1Stack.html#cf0dd4f69496026d0dbdd72cc4d1f84a" title="Hide from sub&#45;classes." alt="" coords="1372,537,1548,565">
+<area shape="rect" id="node18" href="$classcontainer_1_1Stack.html#99ff20aba0452e05fed1b0c2153950fb" title="Called by a template method." alt="" coords="1368,486,1552,514">
+<area shape="rect" id="node25" href="$classcontainer_1_1OrderedList.html#ec051caf347658638a2aa66fd3d08326" title="Add an Entity to the end of the list." alt="" coords="1068,359,1268,387">
+<area shape="rect" id="node31" href="$classcontainer_1_1List.html#20570f605dae5bee65fa80f244d79245" title="Remove the current Entity from the list and return a pointer to it." alt="" coords="1055,410,1281,438">
+<area shape="rect" id="node38" href="$classcontainer_1_1Container.html#731522fdda128b8a0f70eec4ebf218f4" title="Return true if the container is empty, false otherwise." alt="" coords="1072,207,1264,235">
+<area shape="rect" id="node43" href="$classcontainer_1_1List.html#93e127ab49bde91c0cebafcda9378a86" title="Point the cursor to the last Entity in the list." alt="" coords="1095,258,1241,286">
+<area shape="rect" id="node27" href="$classcontainer_1_1OrderedList.html#3376af14f3c8a22505d34ff24e55e723" title="Called by a template method." alt="" coords="1345,334,1575,362">
+<area shape="rect" id="node29" href="$classcontainer_1_1OrderedList.html#ff988f9c4cd10d9c6ded214626dd3e12" title="Hide from sub&#45;classes." alt="" coords="1356,283,1564,311">
+<area shape="rect" id="node33" href="$classcontainer_1_1Container.html#94ba04bb7cc9899cb90397fc5a929457" title="container::Container::decCount" alt="" coords="1360,435,1560,463">
+<area shape="rect" id="node35" href="$classcontainer_1_1List.html#49229e27ecb99867d28bf31ee70577a9" title="Called by a template method." alt="" coords="1331,385,1589,413">

@@ -1,0 +1,15 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1LinkedList.html#40da2157f2a1f1ae3c6fab71c9ce0a86" title="container::LinkedList::currentEntity" alt="" coords="187,5,411,33">
+<area shape="rect" id="node5" href="$classcontainer_1_1LinkedList.html#7242dc0f966d50ffdc4084e9e52d8e95" title="container::LinkedList::isTail" alt="" coords="501,5,680,33">
+<area shape="rect" id="node7" href="$classcontainer_1_1List.html#fbd615ed23e157eb39eece65bfb9320c" title="Remove the current Entity from the list and delete it from memory." alt="" coords="205,106,392,134">
+<area shape="rect" id="node13" href="$classcontainer_1_1List.html#20570f605dae5bee65fa80f244d79245" title="Remove the current Entity from the list and return a pointer to it." alt="" coords="185,157,412,185">
+<area shape="rect" id="node18" href="$classcontainer_1_1OrderedList.html#5c98df2889d33ff63466eb0fb47c8707" title="Inserts the new Entity relative to the list cursor." alt="" coords="185,207,412,235">
+<area shape="rect" id="node26" href="$classcontainer_1_1LinkedList.html#fc2306d35b9ccddd35886083794160e8" title="Return TRUE if the cursor is pointing to first real node, FALSE otherwise." alt="" coords="207,258,391,286">
+<area shape="rect" id="node29" href="$classcontainer_1_1LinkedList.html#962695c83853e91923e0f2379f0272fc" title="Points the cursor to the first real node of the list." alt="" coords="205,309,392,337">
+<area shape="rect" id="node31" href="$classcontainer_1_1LinkedList.html#2130604a96b263bc18ec2d219f608623" title="container::LinkedList::toNext" alt="" coords="205,359,392,387">
+<area shape="rect" id="node33" href="$classcontainer_1_1LinkedList.html#9cb0d5780bcc092393770ec0325f7e86" title="container::LinkedList::toPrev" alt="" coords="207,410,391,438">
+<area shape="rect" id="node9" href="$classcontainer_1_1Container.html#94ba04bb7cc9899cb90397fc5a929457" title="container::Container::decCount" alt="" coords="491,106,691,134">
+<area shape="rect" id="node11" href="$classcontainer_1_1List.html#a5b4fbf4cf0dc35ddf4a98a9886bcfb8" title="container::List::deleteCurrent_impl" alt="" coords="481,55,700,83">
+<area shape="rect" id="node16" href="$classcontainer_1_1List.html#49229e27ecb99867d28bf31ee70577a9" title="container::List::extractCurrentEntity_impl" alt="" coords="461,157,720,185">
+<area shape="rect" id="node20" href="$classcontainer_1_1OrderedList.html#ff988f9c4cd10d9c6ded214626dd3e12" title="Hide from sub&#45;classes." alt="" coords="487,207,695,235">
+<area shape="rect" id="node24" href="$classcontainer_1_1OrderedList.html#1768d5ea1849e0dc6b683a746d98edeb" title="container::OrderedList::insertBefore_impl" alt="" coords="463,258,719,286">
+<area shape="rect" id="node22" href="$classcontainer_1_1Container.html#4f4f526129e10c80be3415062dbdb39b" title="container::Container::incCount" alt="" coords="769,207,964,235">

@@ -1,0 +1,11 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1LinkedList.html#40da2157f2a1f1ae3c6fab71c9ce0a86" title="container::LinkedList::currentEntity" alt="" coords="187,5,411,33">
+<area shape="rect" id="node5" href="$classcontainer_1_1LinkedList.html#7242dc0f966d50ffdc4084e9e52d8e95" title="container::LinkedList::isTail" alt="" coords="501,30,680,58">
+<area shape="rect" id="node7" href="$classcontainer_1_1List.html#fbd615ed23e157eb39eece65bfb9320c" title="Remove the current Entity from the list and deletes it." alt="" coords="205,106,392,134">
+<area shape="rect" id="node13" href="$classcontainer_1_1List.html#20570f605dae5bee65fa80f244d79245" title="Remove the current Entity from the list and return a pointer to it." alt="" coords="185,157,412,185">
+<area shape="rect" id="node18" href="$classcontainer_1_1LinkedList.html#fc2306d35b9ccddd35886083794160e8" title="Return TRUE if the cursor is pointing to first real node, FALSE otherwise." alt="" coords="207,207,391,235">
+<area shape="rect" id="node21" href="$classcontainer_1_1LinkedList.html#962695c83853e91923e0f2379f0272fc" title="Points the cursor to the first real node of the list." alt="" coords="205,258,392,286">
+<area shape="rect" id="node23" href="$classcontainer_1_1LinkedList.html#2130604a96b263bc18ec2d219f608623" title="container::LinkedList::toNext" alt="" coords="205,309,392,337">
+<area shape="rect" id="node25" href="$classcontainer_1_1LinkedList.html#9cb0d5780bcc092393770ec0325f7e86" title="container::LinkedList::toPrev" alt="" coords="207,359,391,387">
+<area shape="rect" id="node9" href="$classcontainer_1_1Container.html#94ba04bb7cc9899cb90397fc5a929457" title="container::Container::decCount" alt="" coords="491,131,691,159">
+<area shape="rect" id="node11" href="$classcontainer_1_1List.html#a5b4fbf4cf0dc35ddf4a98a9886bcfb8" title="container::List::deleteCurrent_impl" alt="" coords="481,81,700,109">
+<area shape="rect" id="node16" href="$classcontainer_1_1List.html#49229e27ecb99867d28bf31ee70577a9" title="container::List::extractCurrentEntity_impl" alt="" coords="461,182,720,210">
