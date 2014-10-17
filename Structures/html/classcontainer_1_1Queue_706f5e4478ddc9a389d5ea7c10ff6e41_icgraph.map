@@ -1,9 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1Queue.html#f1f128af37456d3c344a27ad1660ea91" title="Remove the first Entity from the Queue and return a pointer to the Entity." alt="" coords="239,74,415,102">
-<area shape="rect" id="node5" href="$classcontainer__test_1_1QueueImpl__test.html#b60b1bce7e1720d5adba3c5938ba24a3" title="container_test::QueueImpl_test::enqueueDequeueTest" alt="" coords="1251,74,1587,102">
-<area shape="rect" id="node7" href="$classcontainer_1_1Queue.html#73703873d89911c45c39092d7b4a3fe1" title="Empty the contents of the container, deleting all Entities." alt="" coords="923,226,1133,254">
-<area shape="rect" id="node11" href="$classcontainer__test_1_1QueueImpl__test.html#56b52e2af2093f6ae41663a9d3391eb4" title="container_test::QueueImpl_test::shallowVersusDeepTest" alt="" coords="853,23,1203,51">
-<area shape="rect" id="node13" href="$namespacecontainer__test.html#6586898626e52cb97af6fa1513c2d93b" title="container_test::TEST_F" alt="" coords="556,99,713,127">
-<area shape="rect" id="node15" href="$classcontainer__test_1_1QueueImpl__test.html#0b6732c0b5d164fd8fc76f3812643c04" title="container_test::QueueImpl_test::verifyEquivalence" alt="" coords="481,48,788,76">
-<area shape="rect" id="node18" href="$classcontainer__test_1_1QueueImpl__test.html#ba1adac96f0b953db5135c30279e4625" title="container_test::QueueImpl_test::verifyQueueCoherence" alt="" coords="465,150,804,178">
-<area shape="rect" id="node9" href="$classcontainer__test_1_1QueueImpl__test.html#7de2ab3dcaba6ee8070fa7c7453633af" title="container_test::QueueImpl_test::purgeContentsTest" alt="" coords="1259,175,1579,203">
-<area shape="rect" id="node23" href="$classcontainer__test_1_1QueueImpl__test.html#a79a080b15ca678147a9d7b8051989bb" title="container_test::QueueImpl_test::startingEmpty" alt="" coords="883,124,1173,152">

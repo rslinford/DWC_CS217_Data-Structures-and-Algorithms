@@ -1,9 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer__test_1_1List__test.html#13e2792814e2890a1ae4879e2f063e73" title="container_test::List_test::cursorControl" alt="" coords="279,5,524,33">
-<area shape="rect" id="node5" href="$classcontainer__test_1_1List__test.html#9d325466016507bcc7748443e2b00101" title="container_test::List_test::defaultConstructor" alt="" coords="264,55,539,83">
-<area shape="rect" id="node7" href="$classcontainer__test_1_1SortedList__test.html#41f06ea2b9f0f6334e5de1ec9ceb2154" title="container_test::SortedList_test::insertingAndRemoving" alt="" coords="233,106,569,134">
-<area shape="rect" id="node9" href="$classcontainer__test_1_1OrderedList__test.html#12530b7833490527d001cb8faf29c319" title="container_test::OrderedList_test::insertingAndRemoving" alt="" coords="229,157,573,185">
-<area shape="rect" id="node11" href="$classcontainer_1_1StackImpl.html#f94291b8cec83de0fd0919c4d52dc96c" title="Write the state of an Object for debugging and demonstration." alt="" coords="293,207,509,235">
-<area shape="rect" id="node13" href="$classcontainer_1_1QueueImpl.html#8456c6699c7bbb39dd6630e447a2dc40" title="Write the state of an Object for debugging and demonstration." alt="" coords="292,258,511,286">
-<area shape="rect" id="node15" href="$classcontainer__test_1_1List__test.html#b75a7e894691bd422d35491709cdf7ac" title="container_test::List_test::verifyEmptyStateCoherence" alt="" coords="237,309,565,337">
-<area shape="rect" id="node17" href="$classcontainer__test_1_1List__test.html#2366587b05dc16937d7d3e7398d41d34" title="container_test::List_test::verifyNonEmptyStateCoherence_notTail" alt="" coords="203,359,600,387">
-<area shape="rect" id="node19" href="$classcontainer__test_1_1List__test.html#8a6f498f7471f99638403a50b889941d" title="container_test::List_test::verifyNonEmptyStateCoherence_tail" alt="" coords="213,410,589,438">

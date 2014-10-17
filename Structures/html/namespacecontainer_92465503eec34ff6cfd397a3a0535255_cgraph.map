@@ -1,5 +1,0 @@
-<area shape="rect" id="node3" href="$classcontainer_1_1Entity.html#85ad54649cf5626603c47ca1d8ba7077" title="container::Entity::getKey" alt="" coords="211,5,376,33">
-<area shape="rect" id="node5" href="$classcontainer_1_1Entity.html#de6e328e77aaeda811470ea95daf86ce" title="container::Entity::getKeyAsString" alt="" coords="451,106,667,134">
-<area shape="rect" id="node7" href="$namespaceutil.html#dde9c2ca58ba19e13c97034a046f811e" title="Converts an object into a new its string representation." alt="" coords="716,81,807,109">
-<area shape="rect" id="node9" href="$classcontainer_1_1LinkedList.html#bc3f5dec58bed87cde84c1f200c2c1e4" title="Locate the first Entity that matches the specified key." alt="" coords="184,157,403,185">
-<area shape="rect" id="node12" href="$classcontainer_1_1LinkedList.html#b005fdd17eca2b7039a16a7c51d2048a" title="container::LinkedList::toNext" alt="" coords="465,157,652,185">

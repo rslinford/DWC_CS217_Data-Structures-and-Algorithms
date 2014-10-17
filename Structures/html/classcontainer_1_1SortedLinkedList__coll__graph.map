@@ -1,8 +1,0 @@
-<area shape="rect" id="node2" href="$classcontainer_1_1SortedList.html" title="Abstract base class for all sorted lists." alt="" coords="157,321,299,349">
-<area shape="rect" id="node4" href="$classcontainer_1_1List.html" title="Abstract base class for all list containers." alt="" coords="176,194,280,222">
-<area shape="rect" id="node16" href="$classcontainer_1_1LinkedList.html" title="A mostly complete linked&#45;list implementation of List." alt="" coords="323,321,464,349">
-<area shape="rect" id="node6" href="$classcontainer_1_1Container.html" title="Abstract base class for all containers." alt="" coords="5,99,141,127">
-<area shape="rect" id="node8" href="$classcontainer_1_1Object.html" title="The root for most classes in the container namespace." alt="" coords="139,6,259,34">
-<area shape="rect" id="node10" href="$classcontainer_1_1Object_1_1Info.html" title="Metadata that describes type Object or a descendant there of." alt="" coords="165,99,312,127">
-<area shape="rect" id="node22" href="$classcontainer_1_1Entity.html" title="The base class of all items that can be stored in a Container." alt="" coords="431,99,545,127">
-<area shape="rect" id="node19" href="$classcontainer_1_1LinkedList_1_1Node.html" title="LinkedList uses Node objects to form a list of Entity objects." alt="" coords="320,194,499,222">
