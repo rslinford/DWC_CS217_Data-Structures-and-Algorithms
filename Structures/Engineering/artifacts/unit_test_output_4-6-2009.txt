@@ -1,0 +1,180 @@
+Running main() from gtest_main.cc
+[==========] Running 10 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 7 tests from LinkedList_test
+[ RUN      ] LinkedList_test.DefaultConstructor
+Default constructor should create empty lists.
+ a LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+ b LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+Adding node to list b
+ b LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(0) keyAsString(NULL)]}]
+[       OK ] LinkedList_test.DefaultConstructor
+[ RUN      ] LinkedList_test.append
+List a is empty
+  LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+List a has one item.
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(1) keyAsString(NULL)]}]
+[       OK ] LinkedList_test.append
+[ RUN      ] LinkedList_test.cursorControl
+List a is empty
+  LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+List a has one item
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(2) keyAsString(NULL)]}]
+After toPrev()
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(2) keyAsString(NULL)]}]
+Current node contains: Entity[key(2) keyAsString(NULL)]
+After toNext()
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(2) keyAsString(NULL)]}]
+After toFirst()
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(2) keyAsString(NULL)]}]
+After toTail()
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(2) keyAsString(NULL)]}]
+After toLast()
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(2) keyAsString(NULL)]}]
+Adding a 2nd item to the front of list a
+After toFirst(), (cursor shouldn't have moved)
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(2) keyAsString(NULL)]}]
+After insertBefore(e2)
+  LinkedList[[OrderedList count(2)][contents{0_Entity[key(3) keyAsString(NULL)], cursor->1_Entity[key(2) keyAsString(NULL)]}]
+After toPrev()
+  LinkedList[[OrderedList count(2)][contents{cursor->0_Entity[key(3) keyAsString(NULL)], 1_Entity[key(2) keyAsString(NULL)]}]
+After 2nd call toPrev(), (cursor shouldn't have moved)
+  LinkedList[[OrderedList count(2)][contents{cursor->0_Entity[key(3) keyAsString(NULL)], 1_Entity[key(2) keyAsString(NULL)]}]
+First node contains: Entity[key(3) keyAsString(NULL)]
+After toNext()
+  LinkedList[[OrderedList count(2)][contents{0_Entity[key(3) keyAsString(NULL)], cursor->1_Entity[key(2) keyAsString(NULL)]}]
+Last node contains: Entity[key(2) keyAsString(NULL)]
+After toNext()
+  LinkedList[[OrderedList count(2)][cursor->TAIL contents{0_Entity[key(3) keyAsString(NULL)], 1_Entity[key(2) keyAsString(NULL)]}]
+[       OK ] LinkedList_test.cursorControl
+[ RUN      ] LinkedList_test.insertingAndRemoving
+Populating list with 5 entities:
+  LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+After append() Entity[key(4) keyAsString(NULL)]
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)]}]
+After append() Entity[key(5) keyAsString(NULL)]
+  LinkedList[[OrderedList count(2)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)]}]
+After append() Entity[key(6) keyAsString(NULL)]
+  LinkedList[[OrderedList count(3)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)]}]
+After append() Entity[key(7) keyAsString(NULL)]
+  LinkedList[[OrderedList count(4)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)], 3_Entity[key(7) keyAsString(NULL)]}]
+After append() Entity[key(8) keyAsString(NULL)]
+  LinkedList[[OrderedList count(5)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)], 3_Entity[key(7) keyAsString(NULL)], 4_Entity[key(8) keyAsString(NULL)]}]
+Iterating from first to last.
+  node[0] contains: Entity[key(4) keyAsString(NULL)]
+  node[1] contains: Entity[key(5) keyAsString(NULL)]
+  node[2] contains: Entity[key(6) keyAsString(NULL)]
+  node[3] contains: Entity[key(7) keyAsString(NULL)]
+  node[4] contains: Entity[key(8) keyAsString(NULL)]
+Iterating from last to first.
+  node[4] contains: Entity[key(8) keyAsString(NULL)]
+  node[3] contains: Entity[key(7) keyAsString(NULL)]
+  node[2] contains: Entity[key(6) keyAsString(NULL)]
+  node[1] contains: Entity[key(5) keyAsString(NULL)]
+  node[0] contains: Entity[key(4) keyAsString(NULL)]
+Extracting from first to last.
+  extracted Entity[key(4) keyAsString(NULL)]
+    LinkedList[[OrderedList count(4)][contents{cursor->0_Entity[key(5) keyAsString(NULL)], 1_Entity[key(6) keyAsString(NULL)], 2_Entity[key(7) keyAsString(NULL)], 3_Entity[key(8) keyAsString(NULL)]}]
+  extracted Entity[key(5) keyAsString(NULL)]
+    LinkedList[[OrderedList count(3)][contents{cursor->0_Entity[key(6) keyAsString(NULL)], 1_Entity[key(7) keyAsString(NULL)], 2_Entity[key(8) keyAsString(NULL)]}]
+  extracted Entity[key(6) keyAsString(NULL)]
+    LinkedList[[OrderedList count(2)][contents{cursor->0_Entity[key(7) keyAsString(NULL)], 1_Entity[key(8) keyAsString(NULL)]}]
+  extracted Entity[key(7) keyAsString(NULL)]
+    LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(8) keyAsString(NULL)]}]
+  extracted Entity[key(8) keyAsString(NULL)]
+    LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+Repopulating same list with extracted Entities
+  LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+  After insertBefore() Entity[key(4) keyAsString(NULL)]
+    LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)]}]
+  After insertBefore() Entity[key(5) keyAsString(NULL)]
+    LinkedList[[OrderedList count(2)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)]}]
+  After insertBefore() Entity[key(6) keyAsString(NULL)]
+    LinkedList[[OrderedList count(3)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)]}]
+  After insertBefore() Entity[key(7) keyAsString(NULL)]
+    LinkedList[[OrderedList count(4)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)], 3_Entity[key(7) keyAsString(NULL)]}]
+  After insertBefore() Entity[key(8) keyAsString(NULL)]
+    LinkedList[[OrderedList count(5)][cursor->TAIL contents{0_Entity[key(4) keyAsString(NULL)], 1_Entity[key(5) keyAsString(NULL)], 2_Entity[key(6) keyAsString(NULL)], 3_Entity[key(7) keyAsString(NULL)], 4_Entity[key(8) keyAsString(NULL)]}]
+Deleting from first to last.
+  deleteCurrent()
+    LinkedList[[OrderedList count(4)][contents{cursor->0_Entity[key(5) keyAsString(NULL)], 1_Entity[key(6) keyAsString(NULL)], 2_Entity[key(7) keyAsString(NULL)], 3_Entity[key(8) keyAsString(NULL)]}]
+  deleteCurrent()
+    LinkedList[[OrderedList count(3)][contents{cursor->0_Entity[key(6) keyAsString(NULL)], 1_Entity[key(7) keyAsString(NULL)], 2_Entity[key(8) keyAsString(NULL)]}]
+  deleteCurrent()
+    LinkedList[[OrderedList count(2)][contents{cursor->0_Entity[key(7) keyAsString(NULL)], 1_Entity[key(8) keyAsString(NULL)]}]
+  deleteCurrent()
+    LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(8) keyAsString(NULL)]}]
+  deleteCurrent()
+    LinkedList[[OrderedList count(0)][cursor->TAIL contents{}]
+[       OK ] LinkedList_test.insertingAndRemoving
+[ RUN      ] LinkedList_test.purgeConents
+Created a list with 100 items.
+  called purgeContents(), size is: 0
+[       OK ] LinkedList_test.purgeConents
+[ RUN      ] LinkedList_test.locateEntity
+Calling locateEntity on an emtpy list.
+  returned index(-1) entity(0)
+Calling locateEntity on a list with a single item.
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(111) keyAsString(111)]}])
+  locating Entity with key(111)
+  returned index(0) entity(Entity[key(111) keyAsString(111)])
+Calling locateEntity on the same list.
+  LinkedList[[OrderedList count(1)][cursor->TAIL contents{0_Entity[key(111) keyAsString(111)]}])
+  locating Entity with key(ASDF_FDSA)
+  returned index(-1) entity(0)
+[       OK ] LinkedList_test.locateEntity
+[ RUN      ] LinkedList_test.entityAt
+Calling entityAt(0) on a list with a single item.
+  returned entity(0)
+Calling entityAt(0) on a list with one item.
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(113) keyAsString(NULL)]}]
+  returned entity(Entity[key(113) keyAsString(NULL)])
+Calling entityAt(-1) on the same list.
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(113) keyAsString(NULL)]}]
+  returned entity(0)
+Calling entityAt(4000) on the same list.
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(113) keyAsString(NULL)]}]
+  returned entity(0)
+Calling entityAt(1) on the same list.
+  LinkedList[[OrderedList count(1)][contents{cursor->0_Entity[key(113) keyAsString(NULL)]}]
+  returned entity(0)
+[       OK ] LinkedList_test.entityAt
+[----------] 3 tests from Entity_test
+[ RUN      ] Entity_test.DefaultConstructor
+Constructor should assign a unique key automatically
+a Entity[key(114) keyAsString(NULL)]
+b Entity[key(115) keyAsString(NULL)]
+c Entity[key(116) keyAsString(NULL)]
+d Entity[key(117) keyAsString(NULL)]
+[       OK ] Entity_test.DefaultConstructor
+[ RUN      ] Entity_test.AssignmentOperator
+Before assignment a = b
+       a Entity[key(118) keyAsString(NULL)]
+       b Entity[key(119) keyAsString(NULL)]
+After  a Entity[key(119) keyAsString(NULL)]
+Before assignment a = b
+       a Entity[key(120) keyAsString(120)]
+       b Entity[key(121) keyAsString(NULL)]
+After  a Entity[key(121) keyAsString(NULL)]
+Before assignment a = b
+       a Entity[key(122) keyAsString(NULL)]
+       b Entity[key(123) keyAsString(123)]
+After  a Entity[key(123) keyAsString(123)]
+Before assignment a = b
+       a Entity[key(124) keyAsString(124)]
+       b Entity[key(125) keyAsString(125)]
+After  a Entity[key(125) keyAsString(125)]
+[       OK ] Entity_test.AssignmentOperator
+[ RUN      ] Entity_test.CopyConstructor
+Before copy constructor a = new Entity(b)
+       a is NULL
+       b Entity[key(126) keyAsString(NULL)]
+After  a Entity[key(126) keyAsString(NULL)]
+Before copy constructor a = new Entity(b)
+       a is NULL
+       b Entity[key(127) keyAsString(127)]
+After  a Entity[key(127) keyAsString(127)]
+[       OK ] Entity_test.CopyConstructor
+[----------] Global test environment tear-down
+[==========] 10 tests from 2 test cases ran.
+[  PASSED  ] 10 tests.

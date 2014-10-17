@@ -1,0 +1,5 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of objects in this container." alt="" coords="749,5,947,33">
+<area shape="rect" id="node5" href="$classcontainer_1_1Container.html#731522fdda128b8a0f70eec4ebf218f4" title="Return TRUE if the container is empty, FALSE otherwise." alt="" coords="508,30,700,58">
+<area shape="rect" id="node8" href="$classcontainer_1_1LinkedList.html#fc2306d35b9ccddd35886083794160e8" title="Return TRUE if the cursor is pointing to first real node, FALSE otherwise." alt="" coords="512,81,696,109">
+<area shape="rect" id="node10" href="$classcontainer_1_1LinkedList.html#f123f53aa040dd9a5c510b1dcb58a8b7" title="Return TRUE if the cursor is pointing to last real node, FALSE otherwise." alt="" coords="512,131,696,159">
+<area shape="rect" id="node12" href="$classcontainer_1_1LinkedList.html#7242dc0f966d50ffdc4084e9e52d8e95" title="container::LinkedList::isTail" alt="" coords="515,182,693,210">

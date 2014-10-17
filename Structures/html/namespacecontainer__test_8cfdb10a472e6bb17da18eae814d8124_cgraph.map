@@ -1,0 +1,8 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1Stack.html#d63453e13a17b44d88e886541aa3b736" title="Remove the top Entity from the Stack and return a pointer to the Entity." alt="" coords="227,81,371,109">
+<area shape="rect" id="node11" href="$classcontainer_1_1Stack.html#cb31868c9b72884815875a74d7632106" title="Add an Entity onto the top of the Stack." alt="" coords="223,157,375,185">
+<area shape="rect" id="node17" href="$classcontainer_1_1Stack.html#b17fe8207ef73e6f96adb8e74690a99a" title="Return the instance of Object::Info that describes the class of this object." alt="" coords="215,207,383,235">
+<area shape="rect" id="node5" href="$classcontainer_1_1Stack.html#4f8d96e0415fdfe9e7fc5510cb133586" title="Hide from sub&#45;classes." alt="" coords="441,5,620,33">
+<area shape="rect" id="node7" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of Entity objects in this container." alt="" coords="432,55,629,83">
+<area shape="rect" id="node9" href="$classcontainer_1_1Stack.html#114badb6ce48511483eb7a613eff08a2" title="Called by a template method." alt="" coords="443,106,619,134">
+<area shape="rect" id="node13" href="$classcontainer_1_1Stack.html#cf0dd4f69496026d0dbdd72cc4d1f84a" title="Hide from sub&#45;classes." alt="" coords="443,157,619,185">
+<area shape="rect" id="node15" href="$classcontainer_1_1Stack.html#99ff20aba0452e05fed1b0c2153950fb" title="Called by a template method." alt="" coords="439,207,623,235">

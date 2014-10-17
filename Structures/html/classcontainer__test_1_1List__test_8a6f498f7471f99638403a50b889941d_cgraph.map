@@ -1,0 +1,5 @@
+<area shape="rect" id="node3" href="$classcontainer_1_1Container.html#a408b3870ae6d232ffe3c536510789ee" title="Return the number of Entity objects in this container." alt="" coords="672,5,869,33">
+<area shape="rect" id="node5" href="$classcontainer_1_1Container.html#731522fdda128b8a0f70eec4ebf218f4" title="Return true if the container is empty, false otherwise." alt="" coords="431,30,623,58">
+<area shape="rect" id="node8" href="$classcontainer_1_1List.html#9bf759f66d205b119f2686837d2ff161" title="Return true if the cursor is pointing to first real node, false otherwise." alt="" coords="453,81,600,109">
+<area shape="rect" id="node10" href="$classcontainer_1_1List.html#3ba3527e2adb48cf742297ae45cdaa73" title="Determine whether the list cursor is pointing to the last Entity." alt="" coords="453,131,600,159">
+<area shape="rect" id="node12" href="$classcontainer_1_1List.html#a04a82b31d405a86fd8ca0f6a1ad6554" title="Return true if the cursor is pointing to the list tail, false otherwise." alt="" coords="456,182,597,210">
